@@ -1,0 +1,21 @@
+#demo {
+    background: #FFF;
+    overflow:hidden;
+    border: 1px dashed #CCC;
+    width: 30%;
+}
+#demo a img {
+    border: 3px solid #F2F2F2;
+    width: 120px;
+    height: 120px;
+}
+#box {
+    float: left;
+    width: 300%;
+}
+#demo1 {
+    float: left;
+}
+#demo2 {
+    float: left;
+}
